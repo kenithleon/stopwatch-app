@@ -1,45 +1,76 @@
-# ⏱️ React Stopwatch Application  
-
-A modern and responsive **Stopwatch Web App** that allows users to **Start, Stop, and Reset** the timer.  
-Built with **React.js**, **Tailwind CSS**, and **Vite** 🚀  
-
-## 🌐 Live Demo  
-[👉 View the demo](https://your-username.github.io/react-stopwatch/)  
-*(Replace the URL with your actual deployment link after you deploy.)*  
-
-## 📸 Preview  
-![App Screenshot](screenshot.png)  
-*(Add a `screenshot.png` to your project root to display a preview here.)*  
-
-## ✨ Features  
-- ✅ **Dynamic Controls**: Start, Stop, and Reset the stopwatch with interactive buttons.  
-- ✅ **Clean UI**: Simple and modern interface styled with Tailwind CSS.  
-- ✅ **State-based Styling**: Button colors reflect the timer’s current state.  
+# ⏱️ Stopwatch Application  
 
 
-## 🛠️ Technologies Used  
-- ⚛️ **React.js** – component-based logic and structure.  
-- 💨 **Tailwind CSS** – utility-first styling and layout.  
-- ⚡ **Vite** – fast development server and build tool.  
-- 🧩 **JavaScript (ES6+)** – timer logic and interactivity.  
 
-## 📂 Project Setup  
+A simple and interactive **Stopwatch Web App** that allows users to **Start, Stop, and Reset** the timer.  
 
-The project follows a standard **Vite + React** structure.
+Built using **HTML, CSS, and JavaScript** 🚀  
 
 
-### Installation & Usage
+
+---
+
+
+
+## 🌐 Live Demo  
+
+👉 [Click here to view the demo](https://kenithleon.github.io/stopwatch-app/)  
+
+
+
+---
+
+
+
+## 📸 Preview  
+
+![App Screenshot](https://github.com/kenithleon/stopwatch-app/blob/fb34c6e73550c75d6641c241e54bb50197f2f0b7/Screenshot%202025-09-11%20093529.png)  
+
+
+
+---
+
+
+
+## ✨ Features  
+
+✅ Start, Stop, and Reset the stopwatch  
+
+✅ Clean and simple user interface  
+
+✅ Button hover effects for better interaction  
+
+
+
+---
+
+
+
+## 🛠️ Technologies Used  
+
+- ⚡ **HTML5** → Structure of the app  
+
+- 🎨 **CSS3** → Styling and layout  
+
+- 🧩 **JavaScript (Vanilla JS)** → Logic and interactivity  
+
+
+
+---
+
+
+
+## 📂 Project Setup  
+
+
+
+Clone the repository to your local machine:  
+
+
 
 ```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/kenith-leon/stopwatch.git
 
-# 2️⃣ Move into the project folder
-cd stopwatch
+git clone https://github.com/kenithleon/stopwatch-app.git
 
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Start the development server
-npm run dev
+cd stopwatch-app
 
