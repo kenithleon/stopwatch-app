@@ -32,10 +32,10 @@ The project follows a standard **Vite + React** structure.
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/react-stopwatch.git
+git clone https://github.com/kenith-leon/stopwatch.git
 
 # 2️⃣ Move into the project folder
-cd react-stopwatch
+cd stopwatch
 
 # 3️⃣ Install dependencies
 npm install
